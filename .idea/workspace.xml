@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_101.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_102.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_103.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_104.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_105.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_106.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_107.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_108.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_109.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_110.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_54.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_60.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_61.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_62.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_63.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_64.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_65.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_66.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_67.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_68.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_69.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_70.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_71.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_72.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_73.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_74.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_75.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_76.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_77.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_78.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_79.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_81.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_82.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_83.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_84.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_85.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_86.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_87.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_88.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_89.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_90.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_91.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_92.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_93.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_94.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_95.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_97.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_98.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/data/pages/page_99.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/spider.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="39qxGUzIhrNfMYTVJQVxEMSCv9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.spider.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.spider">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="" />
+      <created>1771437307007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771437307007</updated>
+    </task>
+    <servers />
+  </component>
+</project>
