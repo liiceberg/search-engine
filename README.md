@@ -9,3 +9,9 @@
 Код с программным решением: crawler/spider.py  
 Ссылки скачанных веб-страниц: crawler/index.txt  
 Контент страниц: crawler/data/pages  
+
+## Задание 2
+Код с программным решением: crawler/text_processing.py  
+Список токенов: crawler/data/tokens  
+Список лемм: crawler/data/lemmas  
+
