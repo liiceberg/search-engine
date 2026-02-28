@@ -1,229 +1,344 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="Task 1: create crawler that&#10;downloads the texts of web pages">
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_100_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_101_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_102_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_103_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_104_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_105_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_106_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_107_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_108_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_109_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_10_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_110_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_11_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_12_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_13_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_14_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_15_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_16_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_17_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_18_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_19_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_1_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_20_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_21_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_22_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_23_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_24_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_25_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_26_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_27_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_28_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_29_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_2_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_30_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_31_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_32_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_33_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_34_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_35_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_36_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_37_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_38_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_39_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_3_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_40_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_41_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_42_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_43_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_44_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_45_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_46_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_47_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_48_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_49_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_4_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_50_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_51_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_52_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_53_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_54_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_55_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_56_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_57_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_58_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_59_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_5_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_60_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_61_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_62_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_63_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_64_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_65_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_66_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_67_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_68_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_69_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_6_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_70_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_71_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_72_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_73_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_74_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_75_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_76_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_77_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_78_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_79_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_7_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_80_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_81_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_82_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_83_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_84_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_85_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_86_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_87_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_88_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_89_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_8_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_90_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_91_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_92_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_93_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_94_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_95_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_96_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_97_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_98_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_99_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/lemmas/page_9_lemmas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_100_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_101_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_102_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_103_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_104_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_105_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_106_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_107_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_108_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_109_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_10_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_110_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_11_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_12_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_13_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_14_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_15_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_16_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_17_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_18_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_19_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_1_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_20_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_21_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_22_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_23_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_24_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_25_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_26_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_27_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_28_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_29_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_2_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_30_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_31_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_32_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_33_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_34_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_35_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_36_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_37_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_38_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_39_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_3_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_40_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_41_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_42_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_43_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_44_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_45_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_46_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_47_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_48_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_49_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_4_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_50_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_51_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_52_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_53_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_54_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_55_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_56_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_57_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_58_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_59_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_5_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_60_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_61_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_62_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_63_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_64_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_65_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_66_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_67_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_68_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_69_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_6_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_70_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_71_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_72_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_73_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_74_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_75_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_76_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_77_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_78_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_79_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_7_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_80_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_81_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_82_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_83_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_84_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_85_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_86_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_87_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_88_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_89_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_8_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_90_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_91_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_92_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_93_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_94_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_95_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_96_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_97_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_98_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_99_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/data/tokens/page_9_tokens.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/text_processing.py" afterDir="false" />
+    <list default="true" id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="Task 2: added lists of tokens and lemmas">
+      <change afterPath="$PROJECT_DIR$/boolean_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/index/inverted_index.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_100_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_100_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_101_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_101_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_102_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_102_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_103_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_103_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_104_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_104_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_105_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_105_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_106_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_106_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_107_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_107_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_108_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_108_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_109_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_109_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_10_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_10_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_110_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_110_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_11_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_11_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_12_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_12_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_13_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_13_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_14_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_14_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_15_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_15_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_16_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_16_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_17_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_17_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_18_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_18_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_19_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_19_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_1_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_1_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_20_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_20_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_21_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_21_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_22_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_22_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_23_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_23_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_24_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_24_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_25_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_25_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_26_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_26_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_27_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_27_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_28_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_28_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_29_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_29_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_2_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_2_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_30_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_30_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_31_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_31_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_32_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_32_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_33_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_33_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_34_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_34_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_35_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_35_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_36_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_36_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_37_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_37_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_38_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_38_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_39_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_39_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_3_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_3_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_40_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_40_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_41_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_41_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_42_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_42_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_43_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_43_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_44_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_44_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_45_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_45_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_46_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_46_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_47_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_47_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_48_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_48_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_49_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_49_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_4_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_4_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_50_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_50_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_51_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_51_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_52_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_52_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_53_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_53_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_54_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_54_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_55_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_55_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_56_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_56_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_57_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_57_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_58_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_58_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_59_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_59_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_5_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_5_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_60_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_60_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_61_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_61_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_62_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_62_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_63_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_63_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_64_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_64_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_65_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_65_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_66_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_66_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_67_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_67_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_68_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_68_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_69_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_69_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_6_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_6_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_70_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_70_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_71_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_71_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_72_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_72_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_73_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_73_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_74_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_74_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_75_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_75_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_76_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_76_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_77_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_77_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_78_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_78_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_79_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_79_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_7_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_7_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_80_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_80_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_81_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_81_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_82_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_82_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_83_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_83_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_84_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_84_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_85_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_85_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_86_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_86_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_87_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_87_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_88_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_88_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_89_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_89_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_8_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_8_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_90_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_90_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_91_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_91_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_92_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_92_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_93_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_93_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_94_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_94_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_95_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_95_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_96_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_96_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_97_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_97_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_98_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_98_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_99_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_99_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/lemmas/page_9_lemmas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/lemmas/page_9_lemmas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_100.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_100.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_101.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_101.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_102.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_102.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_103.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_103.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_104.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_104.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_105.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_105.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_106.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_106.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_107.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_107.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_108.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_108.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_109.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_109.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_110.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_110.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_13.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_14.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_15.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_16.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_17.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_18.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_19.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_20.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_21.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_22.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_23.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_24.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_25.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_26.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_27.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_28.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_29.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_30.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_31.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_32.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_32.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_33.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_33.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_34.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_34.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_35.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_35.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_36.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_36.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_37.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_38.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_39.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_39.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_40.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_40.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_41.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_41.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_42.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_42.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_43.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_43.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_44.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_45.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_45.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_46.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_46.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_47.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_48.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_48.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_49.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_49.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_50.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_50.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_51.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_51.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_52.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_52.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_53.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_53.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_54.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_54.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_55.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_55.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_56.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_57.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_57.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_58.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_58.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_59.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_59.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_60.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_60.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_61.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_61.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_62.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_62.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_63.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_63.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_64.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_64.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_65.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_65.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_66.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_66.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_67.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_67.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_68.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_68.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_69.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_69.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_70.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_70.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_71.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_71.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_72.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_72.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_73.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_73.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_74.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_74.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_75.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_75.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_76.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_76.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_77.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_77.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_78.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_78.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_79.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_79.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_80.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_81.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_81.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_82.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_82.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_83.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_83.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_84.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_84.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_85.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_85.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_86.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_86.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_87.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_87.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_88.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_89.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_89.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_90.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_90.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_91.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_91.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_92.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_92.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_93.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_93.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_94.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_94.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_95.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_95.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_96.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_96.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_97.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_97.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_98.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_98.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/pages/page_99.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/page_99.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_100_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_100_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_101_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_101_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_102_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_102_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_103_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_103_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_104_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_104_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_105_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_105_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_106_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_106_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_107_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_107_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_108_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_108_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_109_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_109_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_10_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_10_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_110_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_110_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_11_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_11_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_12_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_12_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_13_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_13_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_14_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_14_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_15_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_15_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_16_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_16_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_17_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_17_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_18_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_18_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_19_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_19_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_1_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_1_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_20_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_20_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_21_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_21_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_22_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_22_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_23_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_23_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_24_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_24_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_25_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_25_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_26_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_26_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_27_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_27_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_28_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_28_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_29_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_29_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_2_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_2_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_30_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_30_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_31_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_31_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_32_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_32_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_33_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_33_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_34_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_34_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_35_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_35_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_36_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_36_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_37_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_37_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_38_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_38_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_39_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_39_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_3_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_3_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_40_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_40_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_41_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_41_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_42_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_42_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_43_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_43_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_44_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_44_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_45_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_45_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_46_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_46_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_47_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_47_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_48_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_48_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_49_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_49_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_4_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_4_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_50_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_50_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_51_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_51_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_52_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_52_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_53_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_53_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_54_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_54_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_55_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_55_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_56_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_56_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_57_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_57_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_58_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_58_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_59_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_59_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_5_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_5_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_60_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_60_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_61_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_61_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_62_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_62_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_63_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_63_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_64_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_64_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_65_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_65_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_66_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_66_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_67_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_67_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_68_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_68_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_69_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_69_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_6_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_6_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_70_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_70_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_71_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_71_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_72_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_72_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_73_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_73_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_74_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_74_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_75_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_75_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_76_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_76_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_77_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_77_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_78_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_78_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_79_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_79_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_7_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_7_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_80_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_80_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_81_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_81_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_82_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_82_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_83_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_83_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_84_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_84_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_85_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_85_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_86_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_86_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_87_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_87_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_88_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_88_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_89_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_89_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_8_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_8_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_90_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_90_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_91_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_91_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_92_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_92_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_93_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_93_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_94_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_94_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_95_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_95_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_96_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_96_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_97_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_97_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_98_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_98_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_99_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_99_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/data/tokens/page_9_tokens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokens/page_9_tokens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/text_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_processing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,6 +378,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.boolean_search.executor": "Run",
+    "Python.build_index.executor": "Run",
     "Python.main.executor": "Run",
     "Python.spider.executor": "Run",
     "Python.text_processing.executor": "Run",
@@ -272,7 +389,58 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.text_processing">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.boolean_search">
+    <configuration name="boolean_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boolean_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -310,7 +478,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +501,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/text_processing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,6 +512,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boolean_search" />
+        <item itemvalue="Python.build_index" />
         <item itemvalue="Python.text_processing" />
         <item itemvalue="Python.spider" />
         <item itemvalue="Python.main" />
@@ -373,11 +543,20 @@
       <option name="project" value="LOCAL" />
       <updated>1771440575020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task 2: added lists of tokens and lemmas">
+      <option name="closed" value="true" />
+      <created>1771958319160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771958319160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1: create crawler that&#10;downloads the texts of web pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1: create crawler that&#10;downloads the texts of web pages" />
+    <MESSAGE value="Task 2: added lists of tokens and lemmas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2: added lists of tokens and lemmas" />
   </component>
 </project>
