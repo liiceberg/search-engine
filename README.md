@@ -20,3 +20,8 @@
 Файл с инвертированным индексом: data/index/inverted_index.txt  
 Код с реализованным поиском: boolean_search.py  
 
+
+## Задание 4
+Код с подсчетом: tf_idf_calculation.py  
+Файлы со списком терминов и  tf-idf: data/tfidf_terms  
+Код со списком лемм и tf-idf: data/tfidf_lemmas  
