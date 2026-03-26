@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск по произведениям И. С. Тургенев. "Братья Карамазовы" и "Рудин"</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        input[type=text] { width: 400px; padding: 5px; }
+        input[type=submit] { padding: 5px 10px; }
+        .result { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Поиск по произведениям</h1>
+    <form method="post">
+        <input type="text" name="query" value="{{ query }}">
+        <input type="submit" value="Найти">
+    </form>
+
+    {% if results %}
+        <h2>Результаты:</h2>
+        <ol>
+            {% for url, score in results %}
+                <li class="result">
+                    <a href="{{ url }}" target="_blank">{{ url }}</a> — {{ score | round(4) }}
+                </li>
+            {% endfor %}
+        </ol>
+    {% elif query %}
+        <p>Ничего не найдено.</p>
+    {% endif %}
+</body>
+</html>

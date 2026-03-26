@@ -1,228 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="Task 3: implemented Boolean index search">
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_101.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_102.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_103.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_104.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_105.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_106.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_107.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_108.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_109.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_110.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_lemmas/page_99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_101.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_102.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_103.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_104.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_105.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_106.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_107.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_108.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_109.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_110.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tfidf_terms/page_99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_idf_calculation.py" afterDir="false" />
+    <list default="true" id="1ea69141-969c-4609-8f7b-74262d561a28" name="Changes" comment="Task 4: calculate TF-IDF">
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vector_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,27 +42,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.boolean_search.executor": "Run",
-    "Python.build_index.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.spider.executor": "Run",
-    "Python.text_processing.executor": "Run",
-    "Python.tf_idf_calculation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.build_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_processing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tf_idf_calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vector_search.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tf_idf_calculation">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="boolean_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -327,52 +136,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tf_idf_calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -396,13 +159,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vector_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vector_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.vector_search" />
         <item itemvalue="Python.tf_idf_calculation" />
         <item itemvalue="Python.boolean_search" />
         <item itemvalue="Python.build_index" />
-        <item itemvalue="Python.text_processing" />
-        <item itemvalue="Python.spider" />
       </list>
     </recent_temporary>
   </component>
@@ -445,13 +231,22 @@
       <option name="project" value="LOCAL" />
       <updated>1772307820611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 4: calculate TF-IDF">
+      <option name="closed" value="true" />
+      <created>1772915693482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772915693482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1: create crawler that&#10;downloads the texts of web pages" />
     <MESSAGE value="Task 2: added lists of tokens and lemmas" />
     <MESSAGE value="Task 3: implemented Boolean index search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3: implemented Boolean index search" />
+    <MESSAGE value="Task 4: calculate TF-IDF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4: calculate TF-IDF" />
   </component>
 </project>
