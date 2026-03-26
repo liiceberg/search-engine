@@ -25,3 +25,10 @@
 Код с подсчетом: tf_idf_calculation.py  
 Файлы со списком терминов и  tf-idf: data/tfidf_terms  
 Код со списком лемм и tf-idf: data/tfidf_lemmas  
+
+## Задание 5
+Код с реализацией поисковика в консоли: vector_search.py  
+
+## Демо
+Код запуска приложения: app.py  
+Макет страницы: templates/index.html  
